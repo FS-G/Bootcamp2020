@@ -1,2 +1,2 @@
 # Bootcamp2020
-Practice Website
+Practice Website for boot camp
